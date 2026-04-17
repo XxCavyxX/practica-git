@@ -2,7 +2,7 @@
 Practica de ramas y pull requets
 Matrícula
 22050271 100
-22050739
+22050739 100
 22050758
 22050766
 22050732
